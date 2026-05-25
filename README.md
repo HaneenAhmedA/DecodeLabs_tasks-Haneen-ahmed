@@ -18,6 +18,7 @@ Each project is in its own repository and linked below.
 | 1 | 🔐 Password Strength Checker | Classifies passwords as Weak / Medium / Strong with GUI | [View](https://github.com/HaneenAhmedA/DecodeLabs-Project1) |
 | 2 | 🔜 Coming Soon | — | — |
 | 3 | 🔜 Coming Soon | — | — |
+| 4 | 🔜 Coming Soon | — | — |
 
 ---
 
