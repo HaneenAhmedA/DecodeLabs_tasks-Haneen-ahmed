@@ -16,7 +16,7 @@ Each project is in its own repository and linked below.
 | # | Project | Description | Repo |
 |---|---------|-------------|------|
 | 1 | 🔐 Password Strength Checker | Classifies passwords as Weak / Medium / Strong with GUI | [View](https://github.com/HaneenAhmedA/DecodeLabs-Project1) |
-| 2 | 🔜 Coming Soon | — | — |
+| 2 | 🔒 Basic Encryption & Decryption | Caesar & Vigenère cipher with Brute Force and Frequency Analysis | [View](https://github.com/HaneenAhmedA/DecodeLabs-Project2) |
 | 3 | 🔜 Coming Soon | — | — |
 | 4 | 🔜 Coming Soon | — | — |
 
@@ -25,6 +25,7 @@ Each project is in its own repository and linked below.
 ## 🛠️ Tech Stack
 - Python 3
 - PyQt5
+- Matplotlib
 - More to come...
 
 ---
