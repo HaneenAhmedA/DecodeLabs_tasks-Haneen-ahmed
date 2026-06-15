@@ -18,7 +18,7 @@ Each project is in its own repository and linked below.
 | 1 | 🔐 Password Strength Checker | Classifies passwords as Weak / Medium / Strong with GUI | [View](https://github.com/HaneenAhmedA/DecodeLabs-Project1-Haneen-ahmed) |
 | 2 | 🔒 Basic Encryption & Decryption | Caesar & Vigenère cipher with Brute Force and Frequency Analysis | [View](https://github.com/HaneenAhmedA/DecodeLabs-Project2-Haneen-ahmed) |
 | 3 | 🎣 Phishing Awareness Analyzer | Interactive triage tool to analyze phishing emails, identify red flags, and classify threats as Safe / Suspicious / Malicious | [View](https://github.com/HaneenAhmedA/DecodeLabs-Project3-Haneen-ahmed) |
-| 4 | 🔜 Coming Soon | — | — |
+
 
 ---
 
